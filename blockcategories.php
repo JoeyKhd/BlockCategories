@@ -36,7 +36,7 @@ function createBlocks($attributes) {
 		$image        = wp_get_attachment_url( $thumbnail_id );
 
 
-		echo '<div class="col-xs-3">';
+		echo '<div class="col-md-3">';
 		echo '<a href="' . $cat_link .'"><div class="category-card">';
 
         if ($image){
