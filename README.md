@@ -1,6 +1,6 @@
 # BlockCategories
 
-###Usage
+##Usage
 
 Use the ```[blockcategories]``` shortcode wherever you wish to display the blocks.
 

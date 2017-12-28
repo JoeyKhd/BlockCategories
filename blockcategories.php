@@ -53,7 +53,7 @@ function createBlocks($attributes) {
 	echo '</div>';
 
 	wp_reset_query();
-	
+
 }
 
 add_shortcode( 'blockcategories', 'createBlocks' );
