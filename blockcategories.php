@@ -53,11 +53,7 @@ function createBlocks($attributes) {
 	echo '</div>';
 
 	wp_reset_query();
-
-	$a['text-color'];
-
-
-	$a['bg-color'];
+	
 }
 
 add_shortcode( 'blockcategories', 'createBlocks' );
