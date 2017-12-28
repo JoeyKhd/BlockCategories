@@ -1,5 +1,7 @@
 # BlockCategories
 
+![alt text](https://i.imgur.com/1qveSRGr.png)
+
 ### Usage
 
 Use the ```[blockcategories]``` shortcode wherever you wish to display the blocks.
